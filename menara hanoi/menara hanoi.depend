@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713944375 source:c:\kadang koding\menara hanoi\main.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<math.h>
+
